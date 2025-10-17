@@ -1,0 +1,83 @@
+# ================================
+#  🧠 Curso Assembly x86 - Jonathan
+#  MASM / NASM + VSCode + C/C++
+# ================================
+
+# === Archivos binarios y objetos ===
+*.obj
+*.o
+*.exe
+*.dll
+*.lib
+*.a
+*.so
+*.bin
+*.com
+*.hex
+
+# === Archivos intermedios / compilación ===
+*.out
+*.map
+*.lst
+*.pdb
+*.res
+*.idb
+*.ilk
+*.exp
+*.pch
+*.tmp
+*.log
+
+# === Archivos de backup o temporales ===
+*.bak
+*.old
+*.swp
+*.swo
+
+# === Archivos MASM/NASM ===
+*.lst
+*.map
+*.xref
+*.err
+*.lst
+*.sym
+*.crf
+*.def
+
+# === Carpetas comunes de build ===
+/build/
+/dist/
+/output/
+/bin/
+/obj/
+
+# === Archivos Visual Studio o VS Code ===
+.vscode/
+.vs/
+*.code-workspace
+
+# === Archivos de proyecto de Visual Studio ===
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.user
+*.ncb
+*.aps
+*.opendb
+
+# === Archivos del sistema Windows ===
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.lnk
+
+# === Archivos comprimidos o empaquetados ===
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# === Otros ===
+*.dSYM/
+*.DS_Store
